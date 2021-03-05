@@ -2,9 +2,9 @@
 <Containers>
 	<Date>2021-03-05</Date>
 	<Beta>False</Beta>
-	<Category>MediaApp:Video MediaApp:Music MediaApp:Photos MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
-	<Name>PlexMediaServer</Name>
-	<Project>https://plex.tv/</Project>
+	<Category>Surveillance</Category>
+	<Name>AgentDvr</Name>
+	<Project>https://www.ispyconnect.com/</Project>
 	<Changes>
 		[font size=3]2021.02.26[/font]
 		- Updated to iSpy Agent DVR version 3.1.9.0
