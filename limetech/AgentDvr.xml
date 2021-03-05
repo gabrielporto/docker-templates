@@ -21,8 +21,8 @@
 		A discrete webcam reveals a wonderful world of wildlife. Agent DVR can record movement in a burrow or nest and send it straight to your email or mobile device.[br]
 	</Description>
 	<Registry>https://www.ispyconnect.com/app/</Registry>
-	<GitHub>https://github.com/doitandbedone/ispyagentdvr</GitHub>
-	<Repository>doitandbedone/ispyagentdvr-docker</Repository>
+	<GitHub>https://github.com/doitandbedone/ispyagentdvr-docker</GitHub>
+	<Repository>doitandbedone/ispyagentdvr</Repository>
 	<Support>https://www.reddit.com/r/ispyconnect/</Support>
 	<BindTime>true</BindTime>
 	<Privileged>true</Privileged>
